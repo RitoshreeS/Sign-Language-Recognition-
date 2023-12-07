@@ -1,0 +1,1 @@
+# Sign-Language-Recognition-In this project, we use key point detection model to build a sequence of key points which can then be passed to an action detection model to decode sign language. We use Tensorflow and Keras to build a deep neural network that uses LSTM layers to handle the sequence of keypoints.
